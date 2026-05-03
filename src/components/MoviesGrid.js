@@ -17,7 +17,7 @@ export default function MoviesGrid(){
 
     return(
 
-        <div chassName="movies-grid">
+        <div className="movies-grid">
 
             {
                 movies.map(movie => (
